@@ -182,22 +182,24 @@ Building Modern Web, Mobile & Desktop applications with scalable technologies.
 
 ---
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=WazifAkmal&theme=transparent&no-frame=true&row=1&column=6"
-  />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WazifAkmal&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WazifAkmal&layout=compact&theme=transparent&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=WazifAkmal&theme=github-compact&hide_border=true"
-  />
+
+<img src="https://github-profile-trophy.vercel.app/?username=WazifAkmal&theme=flat&no-frame=true&row=1&column=6"/>
+
 </p>
 
 ---
