@@ -177,7 +177,7 @@ Building Modern Web, Mobile & Desktop applications with scalable technologies.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=WazifAkmal&show_icons=true&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=WazifAkmal&show_icons=true&theme=transparent"/>
 </p>
 
 ---
