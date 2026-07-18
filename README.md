@@ -175,13 +175,13 @@ Building Modern Web, Mobile & Desktop applications with scalable technologies.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=wazifakmal&show_icons=true&theme=transparent" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wazifakmal&layout=compact&theme=transparent" />
 
 </p>
 
