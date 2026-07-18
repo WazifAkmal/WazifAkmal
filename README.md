@@ -5,7 +5,7 @@ Software Engineer | Full-Stack Developer | AI Integration
 </h3>
 
 <p align="center">
-Building modern Web, Mobile & Desktop applications with scalable technologies.
+Building Modern Web, Mobile & Desktop applications with scalable technologies.
 </p>
 
 ---
