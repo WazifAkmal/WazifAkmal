@@ -174,15 +174,38 @@ Building Modern Web, Mobile & Desktop applications with scalable technologies.
 ⚡ Advanced Backend Development  
 
 ---
-
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=WazifAkmal&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" 
+    height="180"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=WazifAkmal&show_icons=true&theme=transparent&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=WazifAkmal&theme=transparent&hide_border=true" 
+    height="180"
+  />
+</p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WazifAkmal&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+---
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=WazifAkmal&theme=transparent&no-frame=true&row=1&column=6"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=WazifAkmal&theme=github-compact&hide_border=true"
+  />
 </p>
 
 ---
