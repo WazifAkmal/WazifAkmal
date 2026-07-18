@@ -179,9 +179,9 @@ Building Modern Web, Mobile & Desktop applications with scalable technologies.
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=WazifAkmal&show_icons=true&theme=transparent&hide_border=true" />
+<img src="https://github-stats-alpha.vercel.app/api?username=WazifAkmal&cc=22272e&tc=ffffff&ic=ffffff&bc=000000" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WazifAkmal&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WazifAkmal&layout=compact&theme=transparent" />
 
 </p>
 
